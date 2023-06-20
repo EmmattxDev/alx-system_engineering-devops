@@ -8,3 +8,4 @@
 9-firstdirdeletion: deletes the my_first_directory in tmp folder
 10-back: script that moves to a previous directory
 11-lists: list all files including hidden files
+12-file_type: script that prints the type of file name or specified
