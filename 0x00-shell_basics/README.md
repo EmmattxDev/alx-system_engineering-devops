@@ -4,3 +4,4 @@
 5-listfilesdigitonly: is a file that run the script that displays long list of content in the current directory with user and group IDS only
 6-firstdirectory: is script files that creates the directory "my_first_directory" in the "tmp" directory
 7-movethatfile: a script that move a file from a directory to a subdirectory
+8-firstdelete: deletes betty in tmp/my_first_directory
