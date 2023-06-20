@@ -13,3 +13,4 @@
 14-copy_html: copies all html files from current working directory to parent directory" >> README.md
 
 100-lets_move: scripts that moves all files beginning with uppercase to /tmp/u/
+101-clean_emacs: deletes all files ending with the character ~
