@@ -12,3 +12,4 @@
 13-symbolic_link: creates symbolic link to /bin/ls
 14-copy_html: copies all html files from current working directory to parent directory" >> README.md
 
+100-lets_move: scripts that moves all files beginning with uppercase to /tmp/u/
