@@ -10,3 +10,5 @@
 11-lists: list all files including hidden files
 12-file_type: script that prints the type of file name or specified
 13-symbolic_link: creates symbolic link to /bin/ls
+14-copy_html: copies all html files from current working directory to parent directory" >> README.md
+
