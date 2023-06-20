@@ -6,3 +6,4 @@
 7-movethatfile: a script that move a file from a directory to a subdirectory
 8-firstdelete: deletes betty in tmp/my_first_directory
 9-firstdirdeletion: deletes the my_first_directory in tmp folder
+10-back: script that moves to a previous directory
