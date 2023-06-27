@@ -15,3 +15,5 @@ Other users: all the permissions
 -rwxr-x-wx 1 julien julien 23 Sep 20 14:25 hello
 10-mirror_permissions: a script that sets the mode of the file hello the same as olleh’s mode.
 11-directories_permissions: a script that adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users.
+6-multiple_permissins:  a script that adds execute permission to the owner and the group owner, and read permission to other users, to the file hello.
+12-directory_permssions: a script that creates a directory called my_dir with permissions 751 in the working directory.
